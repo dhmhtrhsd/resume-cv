@@ -8,9 +8,9 @@ baseurl: "/resume-cv" # the subpath of your site, e.g. /blog
 url: "https://dhmhtrhsd.github.io/resume-cv" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
-facebook: https://www.facebook.com/dimitris.diamadopoulos
-twitter: https://twitter.com/jimakos98
-github: https://github.com/dhmhtrhsd
+facebook: dimitris.diamadopoulos
+twitter: imakos98
+github: dhmhtrhsd
 
 
 # Comments
